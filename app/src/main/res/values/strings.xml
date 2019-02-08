@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Contacts_app</string>
+    <string name="INFO">CONTACT APP \n
+        Author Name:- Tanvideep \n
+    Version:1.0</string>
+    <string name="btn">Go to Contacts</string>
+    <string name="name">Name:-</string>
+    <string name="lname">Last Name:-</string>
+    <string name="Phone">Phone</string>
+</resources>
